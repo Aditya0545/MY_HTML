@@ -9,7 +9,7 @@
    <main>
    <h1>
        Hey There!!  <br/>
-       <img src="blob:https://www.pngegg.com/2f3fb219-6184-4ec0-997e-dec650b40846" alt="Hello" width="130">
+       <img src="https://github.com/Aditya0545/My_HTML/blob/main/images/Hello.png?raw=true" alt="Hello" width="130">
    </h1>
    <p>This is My First HTML Page </p>
    <div>
