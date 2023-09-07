@@ -13,7 +13,7 @@
    </h1>
    <p>This is My First HTML Page </p>
    <div>
-   <h2> <pre>About<img src=" https://github.com/Aditya0545/My_HTML/blob/main/images/about.png?raw=true" width="40"></pre></h2>
+   <h2> <pre>About<img src="https://github.com/Aditya0545/My_HTML/blob/main/images/about.png?raw=true" width="40"></pre></h2>
    <section> <pre> Education:     Experience:     Project:</pre></section>
    <ol>
    <li><section><big>My Education</big></section></li>
