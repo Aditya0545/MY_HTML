@@ -1,4 +1,3 @@
-# My_HTML
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,7 +13,7 @@
    </h1>
    <p>This is My First HTML Page </p>
    <div>
-   <h2> <pre>About    <img src="/My_HTML/images/about.png" width="40"></pre></h2>
+   <h2> <pre>About    <img src="about link  -- > h https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.freeiconspng.com%2Fuploads%2Fabout-us-icon-5.png&tbnid=2q43_nsJBv6RpM&vet=12ahUKEwiPzuya6piBAxWw2zgGHQCCDLkQMygIegQIARBb..i&imgrefurl=https%3A%2F%2Fwww.freeiconspng.com%2Fimg%2F34422&docid=xd1Xx8a1MilnhM&w=512&h=512&q=about%20icon%20png&ved=2ahUKEwiPzuya6piBAxWw2zgGHQCCDLkQMygIegQIARBb#imgrc=2q43_nsJBv6RpM&imgdii=vDIWyDeb0BhMeM" width="40"></pre></h2>
    <section> <pre> Education:     Experience:     Project:</pre></section>
    <ol>
    <li><section><big>My Education</big></section></li>
